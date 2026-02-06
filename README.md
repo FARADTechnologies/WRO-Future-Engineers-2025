@@ -68,15 +68,15 @@ Open Round-->https://www.youtube.com/watch?v=aMErQvMpUjY
 
 ## Components
 
-* *NVIDIA Jetson Nano* – main AI and vision processing unit.
+* *NVIDIA Jetson Orin NX* – main AI and vision processing unit.
 * *ESP32* – microcontroller for sensor reading and motor control.
 * *D500 Lidar* – for mapping and distance measurement.
 * *CSI Camera* – object detection and vision input.
 * *L298N Motor Driver* – controls DC motors.
-* *DC Gear Motor (yellow)* – provides robot movement.
-* *Servo Motor (SG90/MG90S)* – steering or mechanical actuation.
+* *DC Gear Motor* – provides robot movement.
+* *Servo Motor (MG90S)* – steering or mechanical actuation.
 * *Step-Down Buck Converters (LM2596)* – voltage regulation for modules.
-* *Battery Pack (Li-Po or Li-Ion)* – main power source.
+* *Battery Pack (Li-Po)* – main power source.
 
 ---
 
