@@ -18,44 +18,20 @@
   - [Usage](#Usage)
   - [Code](#Code)
 - [ESP32 and Servo Control for Jetson LiDAR Data](#esp32-and-servo-control-for-jetson-lidar-data)
+<img src="https://github.com/user-attachments/assets/b5ba994f-49d6-4bc4-a5ba-f552cbae6bdb" width="0px" height="0px"/>
+<img src="https://github.com/user-attachments/assets/b5c593ed-8797-47a3-9ccf-4bba87cea9c6" width="0px" height="0px"/>
+
+<img src="https://github.com/user-attachments/assets/b5c593ed-8797-47a3-9ccf-4bba87cea9c6Hello! My name is Banu, and I am 15 years old. To date, I have participated in four competitions, and this year marks my first foray into the WRO Future Engineers category. In my free time, I am passionate about robotics, programming, and playing the violin. I also enjoy exploring new concepts and continuously developing my skills. Additionally, I have a strong interest in chess and Formula 1, which reflect my enthusiasm for both strategic thinking and dynamic problem-solving.🎀🏎" width="0px" height="0px"/>
+
+<img src="https://github.com/user-attachments/assets/7d52f428-0e74-4901-9b23-cc38ac3ba7bd" width="0px" height="0px"/>
+
+<img src="https://github.com/user-attachments/assets/7d52f428-0e74-4901-9b23-cc38aMy name is Jannat Özdemir, I am 16 years old.My zodiac sign is Sagittarius. In my free time, I enjoy horse riding, reading books, and learning new languages. I also love traveling around different countries. I have previously participated in the LEGO Line category. I am passionate about cybersecurity.l can make the best desserts in the world My signature phrase is: We will beat everyonec3ba7bd" width="0px" height="0px"/>
+
+<img src="https://github.com/user-attachments/assets/9bb84605-dea2-4183-8ffc-12d16d6cfe33" width="0px" height="0px"/>
+
+<img src="https://github.com/user-attachments/assets/9bb84605-dea2-4183-8ffc-12d16d6cfe33Hello, my name is Fatima Elizade. I am 16 years old. I study in high school. I like programming. I enjoy playing games and also creating my own games. I know 3 programming languages.I love eating food.I like coconut🥥🫶🏿" width="0px" height="0px"/>
 
 
-
-# The Team
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<img src="https://github.com/user-attachments/assets/b5ba994f-49d6-4bc4-a5ba-f552cbae6bdb" width="700px" height="800px"/>
-
-
-
-
-### Banu Isgandarli
-
-
-<img src="https://github.com/user-attachments/assets/b5c593ed-8797-47a3-9ccf-4bba87cea9c6" width="400px" height="600px"/>
-
-Hello! My name is Banu, and I am 15 years old. To date, I have participated in four competitions, and this year marks my first foray into the WRO Future Engineers category. In my free time, I am passionate about robotics, programming, and playing the violin. I also enjoy exploring new concepts and continuously developing my skills. Additionally, I have a strong interest in chess and Formula 1, which reflect my enthusiasm for both strategic thinking and dynamic problem-solving.🎀🏎
-
-
-
-
-### Jannat Ozdemir
-
-
-<img src="https://github.com/user-attachments/assets/7d52f428-0e74-4901-9b23-cc38ac3ba7bd" width="400px" height="400px"/>
-
-My name is Jannat Özdemir, I am 16 years old.My zodiac sign is Sagittarius. In my free time, I enjoy horse riding, reading books, and learning new languages. I also love traveling around different countries. I have previously participated in the LEGO Line category. I am passionate about cybersecurity.l can make the best desserts in the world My signature phrase is: “We will beat everyone"💅💎
-
-
-
-
-
-
-
-### Fatima Alizade
-
-<img src="https://github.com/user-attachments/assets/9bb84605-dea2-4183-8ffc-12d16d6cfe33" width="400px" height="600px"/>
-
-Hello, my name is Fatima Elizade. I am 16 years old. I study in high school. I like programming. I enjoy playing games and also creating my own games. I know 3 programming languages.I love eating food.I like coconut🥥🫶🏿
 
 
 
